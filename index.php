@@ -5,6 +5,7 @@ require __DIR__ . '/layout/top.php';
 ?>
         <h1>Page d'Accueil</h1>
         <p>Bienvenue</p>
+        <p> Sur la boutique</p>
 <?php
 require __DIR__ . '/layout/bottom.php';
 ?>
